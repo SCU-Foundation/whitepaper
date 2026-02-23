@@ -1,0 +1,23 @@
+{
+  "title": "SCU Whitepaper",
+  "version": "1.7",
+  "edition": "v1.7",
+  "type": "publication",
+  "status": "legacy-stable",
+  "description": "The SCU Whitepaper v1.7 is a legacy stable edition published prior to the Ecosystem Era. It provides conceptual and architectural context for the SCU ecosystem and remains part of the public archival record.",
+  "publication_date": "2024-XX-XX",
+  "canonical_pdf_url": "https://scu.foundation/publications/whitepaper/v1.7/SCU-Whitepaper-v1.7.pdf",
+  "canonical_html_url": null,
+  "license": "CC BY 4.0",
+  "publisher": "SCU Foundation",
+  "checksum": {
+    "sha256": "TO_BE_FILLED_AFTER_UPLOAD"
+  },
+  "superseded_by": "1.8",
+  "notes": [
+    "PDF-only edition.",
+    "Contains no proprietary or restricted material.",
+    "Included for archival completeness.",
+    "Does not reflect Ecosystem Era governance or architecture."
+  ]
+}
