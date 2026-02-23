@@ -1,0 +1,23 @@
+{
+  "title": "SCU Whitepaper",
+  "version": "1.8",
+  "edition": "v1.8",
+  "type": "publication",
+  "status": "current-canonical",
+  "description": "The SCU Whitepaper v1.8 is the current canonical edition and the first Ecosystem Era publication. It provides updated conceptual, architectural, and governance context for the SCU ecosystem and supersedes all prior editions.",
+  "publication_date": "2025-XX-XX",
+  "canonical_pdf_url": "https://scu.foundation/publications/whitepaper/v1.8/SCU-Whitepaper-v1.8.pdf",
+  "canonical_html_url": "https://scu.foundation/publications/whitepaper/v1.8/SCU-Whitepaper-v1.8.html",
+  "license": "CC BY 4.0",
+  "publisher": "SCU Foundation",
+  "checksum": {
+    "sha256": "TO_BE_FILLED_AFTER_UPLOAD"
+  },
+  "supersedes": "1.7",
+  "notes": [
+    "First Ecosystem Era edition.",
+    "Includes both PDF and HTML releases.",
+    "Fully aligned with Governance, Legal, and Specifications repositories.",
+    "Canonical reference for conceptual and architectural framing."
+  ]
+}
